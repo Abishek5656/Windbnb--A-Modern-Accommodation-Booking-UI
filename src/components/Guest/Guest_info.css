@@ -1,0 +1,38 @@
+.guest__info {
+  display: flex;
+  flex-direction: column;
+}
+
+.guest__info h4 {
+  font-family: Mulish;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #333333;
+}
+
+.guest__info p {
+font-family: Mulish;
+font-size: 14px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #BDBDBD;
+}
+
+.guest__info-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5px;
+}
+
+.guest__info-buttons button {
+  font-size: 25px;
+  border: none;
+  outline: none;
+  background: none;
+}
